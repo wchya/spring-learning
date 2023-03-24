@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletResponse;
  * @Description: TODO
  * @Version: 1.0
  */
-@Configuration
+//@Configuration
 public class WebConfig {
 
     @Bean
